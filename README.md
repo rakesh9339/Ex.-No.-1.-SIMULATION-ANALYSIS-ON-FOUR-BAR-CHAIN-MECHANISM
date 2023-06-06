@@ -53,7 +53,8 @@
 
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/rakesh9339/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121115650/d40c8f6c-6d4d-4940-b811-6372a1d46398)
+
 
 
 ### Name: RAKESH J.S
